@@ -1,0 +1,19 @@
+import math as m
+def add(a,b):
+  return a+b
+def sub(a,b):
+  return a-b
+def multi(a,b):
+  return a*b
+def div_1(a):
+  return 1/a
+def mod(a,b):
+  return a%b
+def sqr(a):
+  return a*a
+def sqrt(a):
+  return m.sqrt(a)
+def div(a,b):
+  return a/b
+def fdiv(a,b):
+  return a//b
